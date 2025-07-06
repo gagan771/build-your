@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^6.23.3",
+    "@webcontainer/api": "^1.6.1",
     "autoprefixer": "^10.4.21",
     "next": "15.3.5",
     "postcss": "^8.5.6",
